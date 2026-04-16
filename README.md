@@ -28,7 +28,7 @@ Each task reflects a step in solving real-world data problems — combining tech
 📁 `Task-2-EDA-SQL`
 
 
-### 🔹 Task 3: Interactive Dashboard (Tableau)
+###  Task 3: Interactive Dashboard (Tableau)
 - Designed a dynamic dashboard with key performance indicators  
 - Visualized sales trends, customer distribution, and regional performance  
 - Implemented filters for interactive data exploration  
@@ -36,7 +36,7 @@ Each task reflects a step in solving real-world data problems — combining tech
 📁 `Task-3-Dashboard`
 
 
-### 🔹 Task 4: Data Storytelling & Insights
+###  Task 4: Data Storytelling & Insights
 - Structured analysis into a business-focused presentation  
 - Defined problem statements and validated hypotheses  
 - Delivered actionable recommendations based on data  
